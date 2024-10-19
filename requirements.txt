@@ -1,4 +1,3 @@
-Homepage Design
 Real-time Weather Updates
 City or Location Input
 Forecast Section
@@ -6,11 +5,8 @@ Temperature Readings
 Weather Icons
 Wind Speed Information
 Humidity Levels
-Precipitation Forecast
 Sunrise and Sunset Timings
 User-friendly Interface
-Daily Forecasts
 Search Functionality
-Visual Elements
 Todays highlights
 Weekly forecast
